@@ -3,6 +3,7 @@
 Route module for the API
 """
 from os import getenv
+from typing import TypeVar
 from api.v1.auth.auth import Auth
 import base64
 
