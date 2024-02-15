@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Module of Users views and authentication.
+""" DocDocDocDocDocDoc
 """
 from api.v1.views.session_auth import *
 from api.v1.views.users import *
